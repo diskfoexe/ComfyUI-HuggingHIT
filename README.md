@@ -4,11 +4,8 @@
 
 **Download Hugging Face models directly from your ComfyUI sidebar — no terminal needed.**
 
-[
-[
-[
-[
-[
+<img width="429" height="959" alt="image" src="https://github.com/user-attachments/assets/24d1c1a6-c794-4063-ac5b-a72eb36127af" />
+
 
 </div>
 
