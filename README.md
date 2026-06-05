@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤗 ComfyUI-HuggingHIT
+# ComfyUI-HuggingHIT
 
 **Download Hugging Face models directly from your ComfyUI sidebar — no terminal needed.**
 
